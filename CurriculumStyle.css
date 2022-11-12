@@ -1,0 +1,65 @@
+body
+{
+	display: flex;
+	font-family:Verdana,Arial, serif;
+}
+
+.container
+{
+	/*border: 1px solid black;*/
+	margin: 0 auto;
+	width: 70%;
+	background: white;
+	padding: 10px;
+}
+
+.main
+{
+	background: lightblue;
+	padding: 10px;
+}
+
+.header
+{
+	display: flex;
+}
+
+.header img
+{
+	width: 150px;
+	height: 200px;
+}
+
+.PersInfo
+{
+	margin-left: 40px;
+	width: 100%;
+	color: darkblue;
+}
+
+.PersInfo > h1
+{
+	color: darkblue
+}
+
+.title
+{
+	border: 1px solid lightblue;
+	color: lightblue;
+	background: darkblue;
+}
+
+.profile
+{
+	background: lightblue;
+	margin: 0 auto;
+	width: 25%;
+	padding: 10px;
+}
+
+.title2
+{
+	border: 1px solid lightblue;
+	color: lightblue;
+	background: darkblue;
+}
