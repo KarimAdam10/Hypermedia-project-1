@@ -1,1 +1,1 @@
-# symmetrical-octo-bassoon
+I made the CV about me. First I decided and thought about how to structure and distribute the CV. Once the distribution was decided, I made the html with their respective tags. For conlusion, with the html I had a non-stylized structure so to finish I decided how to style the html (colors, sizes, typologies, etc).
